@@ -22,3 +22,5 @@ The goal of this project is to analyze annual sales data for an online store, cr
 3. **Regular Updates:** Keep data and visualizations updated to ensure relevance and accuracy.
 
 Feel free to explore the [this repo](https://github.com/HussainM899/Ecommerce-Sales-Dashboard-----Power-BI) for datasets, Power BI file, and additional resources. Your feedback is highly valuable for ongoing improvements.
+
+You can also check out this [Video](https://drive.google.com/file/d/10cwi4hmmxJTH6rEVEGk0zIVFYDBTqnOB/view?usp=sharing) of the dashboard
